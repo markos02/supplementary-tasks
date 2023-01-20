@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9085d0a0-5a80-40e1-a14c-b4d5ee217c9b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2K0NzVzd4gzFfcScWl8YKNtDdfa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/mk/Documents/Private/dev/kodilla-course/supplementary-tasks/src/main/java/AT13_Kolega_minimum_kolezanka_maksimum",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mk\Documents\Private\dev\kodilla-course\supplementary-tasks\src\main\java\AT13_Kolega_minimum_kolezanka_maksimum" />
+      <recent name="C:\Users\mk\Documents\Private\dev\kodilla-course\supplementary-tasks\src\main\java\AT11_Fibonacci_recurrent" />
+      <recent name="C:\Users\mk\Documents\Private\dev\kodilla-course\supplementary-tasks\src\main\java\AT9_ Silnia" />
+      <recent name="C:\Users\mk\Documents\Private\dev\kodilla-course\supplementary-tasks\src\main\java\AT2_Podmianka_bez_pomocnika" />
+      <recent name="C:\Users\mk\Documents\Private\dev\kodilla-course\supplementary-tasks\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="AT16_Wartosciowa_segregacja" />
+      <recent name="AT4_Dzielimy_wlos_na_czworo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AT20Main">
+    <configuration name="AT16Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AT16_Wartosciowa_segregacja.AT16Main" />
+      <module name="supplementary-tasks.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AT16_Wartosciowa_segregacja.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AT17Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AT17_Sortowanie_z_gazem.AT17Main" />
+      <module name="supplementary-tasks.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AT17_Sortowanie_z_gazem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AT18Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AT18_Zmieniamy_znak_w_cyfre.AT18Main" />
+      <module name="supplementary-tasks.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AT18_Zmieniamy_znak_w_cyfre.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AT19Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AT19_Zmieniamy_string_w_liczbe.AT19Main" />
+      <module name="supplementary-tasks.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AT19_Zmieniamy_string_w_liczbe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AT20Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AT20_Konwerter_liczby_dziesietnej_na_binarna.AT20Main" />
+      <module name="supplementary-tasks.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AT20_Konwerter_liczby_dziesietnej_na_binarna.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AT20Main" />
+        <item itemvalue="Application.AT19Main" />
+        <item itemvalue="Application.AT18Main" />
+        <item itemvalue="Application.AT17Main" />
+        <item itemvalue="Application.AT16Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9085d0a0-5a80-40e1-a14c-b4d5ee217c9b" name="Changes" comment="" />
+      <created>1673107804568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673107804568</updated>
+      <workItem from="1673107805922" duration="7452000" />
+      <workItem from="1673169112798" duration="11889000" />
+      <workItem from="1673788506432" duration="489000" />
+      <workItem from="1673984416669" duration="19000" />
+      <workItem from="1674247006674" duration="884000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
