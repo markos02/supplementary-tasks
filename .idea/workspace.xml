@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9085d0a0-5a80-40e1-a14c-b4d5ee217c9b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/AT21_Konwerter_liczby_dziesietnej_na_szesnastkowa/AT21Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AT21_Konwerter_liczby_dziesietnej_na_szesnastkowa/HexaConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AT22_Transponowanie_macierzy/AT22Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AT22_Transponowanie_macierzy/MatrixTranspose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AT23_Tlumacz_alfabetu_Morsea/AT23Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AT23_Tlumacz_alfabetu_Morsea/MorseTranslator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,33 +63,7 @@
       <recent name="AT4_Dzielimy_wlos_na_czworo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AT21Main">
-    <configuration name="AT17Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AT17_Sortowanie_z_gazem.AT17Main" />
-      <module name="supplementary-tasks.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AT17_Sortowanie_z_gazem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AT18Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AT18_Zmieniamy_znak_w_cyfre.AT18Main" />
-      <module name="supplementary-tasks.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AT18_Zmieniamy_znak_w_cyfre.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.AT23Main">
     <configuration name="AT19Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AT19_Zmieniamy_string_w_liczbe.AT19Main" />
       <module name="supplementary-tasks.main" />
@@ -127,13 +103,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AT22Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AT22_Transponowanie_macierzy.AT22Main" />
+      <module name="supplementary-tasks.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AT22_Transponowanie_macierzy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AT23Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AT23_Tlumacz_alfabetu_Morsea.AT23Main" />
+      <module name="supplementary-tasks.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AT23_Tlumacz_alfabetu_Morsea.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AT23Main" />
+        <item itemvalue="Application.AT22Main" />
         <item itemvalue="Application.AT21Main" />
         <item itemvalue="Application.AT20Main" />
         <item itemvalue="Application.AT19Main" />
-        <item itemvalue="Application.AT18Main" />
-        <item itemvalue="Application.AT17Main" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +153,12 @@
       <workItem from="1673984416669" duration="19000" />
       <workItem from="1674247006674" duration="1299000" />
       <workItem from="1674890478801" duration="14000" />
-      <workItem from="1677400668187" duration="2571000" />
+      <workItem from="1677400668187" duration="2844000" />
+      <workItem from="1677690587526" duration="380000" />
+      <workItem from="1678018096411" duration="1761000" />
+      <workItem from="1678188643693" duration="11000" />
+      <workItem from="1678293130014" duration="4000" />
+      <workItem from="1678613333818" duration="3787000" />
     </task>
     <servers />
   </component>
